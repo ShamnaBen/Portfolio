@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul li {
+    margin: 0 10px;
+}
+
+.content {
+    padding: 40px;
+}
+
+.dark-mode {
+    background-color: #111;
+    color: #fff;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+/* Add more styling as needed */
